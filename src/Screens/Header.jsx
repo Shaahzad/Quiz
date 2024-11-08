@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <View style={{flex: 1}}>
     <View>
-      <Text style={{fontSize: 30, color:'#00ff99',}}>
+      <Text style={{fontSize: 30, color:'#00ff99', fontWeight: 'bold'}}>
         WhatsApp
       </Text>
         </View>
