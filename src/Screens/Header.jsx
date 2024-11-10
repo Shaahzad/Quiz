@@ -6,8 +6,8 @@ import Entypo from 'react-native-vector-icons/Entypo'
 const Header = () => {
   return (
     <View style={{flex: 1}}>
-    <View>
-      <Text style={{fontSize: 30, color:'#00ff99', fontWeight: 'bold'}}>
+    <View style={{flex: 1, flexDirection: 'row', justifyContent: 'space-between'}}>
+      <Text style={{fontSize: 20, color:'#00ff99', fontWeight: 'bold'}}>
         WhatsApp
       </Text>
         </View>
